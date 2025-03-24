@@ -18,7 +18,7 @@ document.getElementById('convert-button').addEventListener('click', async () => 
       const options = {
         method: 'GET',
         headers: {
-          'X-RapidAPI-Key': 'YOUR_RAPIDAPI_KEY',
+          'X-RapidAPI-Key': '696507170bmsh5cc152e75858265p1b76b2jsn6d0368985055',
           'X-RapidAPI-Host': 'currency-converter5.p.rapidapi.com'
         }
       };
