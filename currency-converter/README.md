@@ -15,14 +15,14 @@ Google Chrome or Mozilla Firefox
  Nginx (web server software)
 
 # External APIs:
-The external API used in developing the web application as suggested by the project prompt is: [RapidAPI Categories](https://rapidapi.com/categories).
+The external API used in developing the web application as suggested by the project prompt is: [RapidAPI Categories](https://rapidapi.com/categories) and (https://app.exchangerate-api.com/dashboard/confirmed)
 
 For this project, the live exchange rates are fetched from the Currency Converter API provided on RapidAPI:
-[Currency Converter API](https://rapidapi.com/ajith/api/currency-converter/)
+[Currency Converter API](https://rapidapi.com/https://app.exchangerate-api.com/dashboard/confirmed/)
 
 # Live Deployment:
 You can access the deployed app at the following link:
-[Currency Converter App](https://www.phillip-mulinwdwa.tech/)
+[Currency Converter App](https://www.phillip-mulindwa.tech/)
 
 # HOW TO USE:
 
