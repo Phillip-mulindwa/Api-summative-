@@ -1,0 +1,19 @@
+# Node modules (if you use Node.js for any build tools)
+node_modules/
+
+# Environment variable files (store API keys and other secrets here)
+.env
+
+# Log files
+*.log
+
+# System files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Build output directories (if applicable)
+dist/
+build/
+
+# Other temporary files
+tmp/
