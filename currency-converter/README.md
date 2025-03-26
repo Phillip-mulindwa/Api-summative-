@@ -22,7 +22,7 @@ For this project, the live exchange rates are fetched from the Currency Converte
 
 # Live Deployment:
 You can access the deployed app at the following link:
-[Currency Converter App](https://www.phillip-mulindwa.tech/)
+Currency Converter App  (https://www.phillip-mulindwa.tech/)
 
 # HOW TO USE:
 
